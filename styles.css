@@ -1,0 +1,10 @@
+body::before {
+  content: "";
+  margin-top: 400px;
+}
+
+img {
+  background-color: #000;
+  background-size: cover;
+  display: block;
+}
